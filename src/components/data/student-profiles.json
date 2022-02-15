@@ -1,0 +1,72 @@
+[
+  {
+    "first_name": "Evelyn",
+    "last_name": "Barneveld",
+    "email": "ebarneveld0@imgur.com",
+    "phone": "(563) 1573935",
+    "gender": "Female"
+  },
+  {
+    "first_name": "Aranka",
+    "last_name": "Giraldo",
+    "email": "sgiraldo1@si.edu",
+    "phone": "(525) 7287475",
+    "gender": "Female"
+  },
+  {
+    "first_name": "Floris",
+    "last_name": "Dijkstra",
+    "email": "tdijkstra2@1und1.nl",
+    "phone": "(424) 3218977",
+    "gender": "Genderqueer"
+  },
+  {
+    "first_name": "Hector",
+    "last_name": "Durban",
+    "email": "kdurban3@opera.com",
+    "phone": "(476) 8785548",
+    "gender": "Male"
+  },
+  {
+    "first_name": "Martina",
+    "last_name": "Racine",
+    "email": "wracine4@e-recht24.com",
+    "phone": "(593) 9443368",
+    "gender": "Female"
+  },
+  {
+    "first_name": "Maurits",
+    "last_name": "Boers",
+    "email": "boers5@fastcompany.com",
+    "phone": "(802) 5272003",
+    "gender": "Agender"
+  },
+  {
+    "first_name": "Rahima",
+    "last_name": "Kershow",
+    "email": "kershow6@guitz.com",
+    "phone": "(845) 2184323",
+    "gender": "Female"
+  },
+  {
+    "first_name": "Sandra",
+    "last_name": "Jager",
+    "email": "jager@goo.ne.nl",
+    "phone": "(427) 4185955",
+    "gender": "Female"
+  },
+  {
+    "first_name": "Wietske",
+    "last_name": "Winters",
+    "email": "winters8@webnode.com",
+    "phone": "(191) 3587803",
+    "gender": "Genderqueer"
+  },
+  {
+    "first_name": "Storm",
+    "last_name": "Rijksma",
+    "email": "storm@japost.nl",
+    "phone": "(151) 4758009",
+    "gender": "Female"
+  }
+]

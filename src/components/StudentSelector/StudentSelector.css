@@ -1,0 +1,26 @@
+.student-selector__student-list {
+    display: flex;
+  
+}
+
+.student-selector__all-students {
+    text-decoration: none;
+    color: black;
+  
+}
+
+.student-selector__all-students:hover {
+    font-weight: bold;
+    color: orange;
+}
+
+.student-selector__student-names {
+    padding-left: 5px;
+    text-decoration: none;
+    color: black;
+}
+
+.student-selector__student-names:hover {
+    font-weight: bold;
+    color: orange;
+}

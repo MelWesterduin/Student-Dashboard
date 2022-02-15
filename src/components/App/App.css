@@ -1,0 +1,13 @@
+* {
+    font-family: 'Titillium Web', sans-serif;
+    background-color: rgb(247, 255, 221);
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+}
+
+@media (max-width: 880px) {
+    
+}
